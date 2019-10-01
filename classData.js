@@ -1,4 +1,4 @@
-var classroom = [
++var classroom = [
   {
     'final': [
       {
@@ -131,7 +131,7 @@ var classroom = [
         grade: 5,
         max: 10
       },
-      {
+      {6
         day: 6,
         grade: 5,
         max: 10
